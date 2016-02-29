@@ -1,1 +1,1 @@
-# DrillODBC
+# Drill ODBC sample code -- python
